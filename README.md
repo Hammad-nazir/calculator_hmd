@@ -19,12 +19,6 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 &#9679 Addition
 &#9679 Subtraction
 &#9679 Division
-&#9679 pi
-&#9679 sin
-&#9679 cos
-&#9679 tan
-&#9679 Exponent(e)
-&#9679 log
 <br><br>
 <b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
 1. Importing Tkinter module<br>
@@ -64,4 +58,4 @@ For developing a simple GUI calculator in python you must have to prior knowledg
  
 <h1>Questions ?</h1>
 <p>Hit me on</p><br>
-<a href="https://hammad-nazir.github.io/my_portfolio/"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
+<a href="https://hammad-nazir.github.io/my_portfolio/"><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" height="50" width="50"></a>
