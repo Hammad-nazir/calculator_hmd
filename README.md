@@ -32,6 +32,7 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 1. Clone this repository.<br>
 2. Allow execution of the hmd_calculator.py<br>
 3. Execute hmd_calculator.py<br>
+4. python3 hmd_calculator.py<br>
 </p>
 
 <br>
