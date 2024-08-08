@@ -1,4 +1,4 @@
-# calculator_hmd
+# calculator_hmd_codexcue
 <center><h1>Advance calculator with GUI using Tkinter in python.</h1></center>
 <br>
 Python offers a lot of options to develop  GUI applications, but Tkinter is the most usable module for developing GUI(Graphical User Interface). Since Tkinter is cross-platform so it works on both windows and Linux. So here i am using Tkinter module to create a simple python calculator.
