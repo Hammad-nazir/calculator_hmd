@@ -36,10 +36,10 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 <h1>How to Use</h1>
 <p>
 1. Clone this repository.<br>
-2. Allow execution of the Calculator_ui.py<br>
-3. Execute Calculator_ui.py<br>
+2. Allow execution of the hmd_calculator.py<br>
+3. Execute hmd_calculator.py<br>
 </p>
-<img src="images/Screenshot (4).png"><img src="images/Screenshot 2.png">
+
 <br>
 <h1>Supported Operations</h1>
 
@@ -59,42 +59,9 @@ For developing a simple GUI calculator in python you must have to prior knowledg
   <tr>
   <td>Division(/)</td>
   </tr>
-  <tr>
-  <td>pi</td>
-  </tr>
-  <tr>
-  <td>Exponent(e)</td>
-  </tr>
-  <tr>
-  <td>sin</td>
-  </tr>
-  <tr>
-  <td>cos</td>
-  </tr>
-   <tr>
-  <td>tan</td>
-  </tr>
-  <tr>
-  <td>log</td>
-  </tr>
-  <tr>
-  <td><i>brackets & all other complex operation</i></td>
-  </tr>
+  
 </table>
-
-
-
-<h1>How to Contribute</h1>
-<p>
-1. Fork the the project<br>
-2. Create your feature branch (git checkout -b my-new-feature)<br>
-3. Make required changes and commit (git commit -am 'Add some feature')<br>
-4. Push to the branch (git push origin my-new-feature)<br>
-5. Create new Pull Request<br>
-<br>
-  Feel free to contribute
-</p>
  
 <h1>Questions ?</h1>
 <p>Hit me on</p><br>
-<a href="https://instagram.com/thedineshyadav"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
+<a href="https://hammad-nazir.github.io/my_portfolio/"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
